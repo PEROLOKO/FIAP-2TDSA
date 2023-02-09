@@ -157,3 +157,55 @@ console.log(pessoaCriada3.nome);
 const pessoaCriada4 = new Pessoa2("Maria", "maria@email.com");
 
 console.log(pessoaCriada4.nome);
+
+class Pessoa3 {
+    construtor() {
+        this._nome = ""; // "privado"
+    }
+
+    get nome() {
+        return this.nome;
+    }
+
+    set nome(value) {
+        this.nome = value;
+    }
+
+    static qualClasseSou() {
+        console.log("Sou a classe pessoa");
+    }
+}
+
+const pessoaCriada5 = new Pessoa3();
+pessoa.nome = "Pedro";
+
+console.log(pessoa.nome);
+Pessoa3.qualClasseSou();
+
+class Carro {
+    constructor(marca) {
+        this.marca = marca;
+    }
+}
+
+class SUV extends Carro {
+    constructor(marca, tipoCambio) {
+        super(marca);
+        this.tipoCambio = tipoCambio;
+    }
+}
+
+let suv = new SUV('Honda', 'Automatico');
+console.log(suv.marca);
+console.log(suv.tipoCambio);
+
+// Módulos
+console.log("\n// Módulos");
+
+import { MinhaClasse, minhaFuncao, minhaVariavel } from "./MeuModulo.js";
+
+let classe = new MinhaClasse();
+classe.show();
+
+minhaFuncao();
+console.log(minhaVariavel);
