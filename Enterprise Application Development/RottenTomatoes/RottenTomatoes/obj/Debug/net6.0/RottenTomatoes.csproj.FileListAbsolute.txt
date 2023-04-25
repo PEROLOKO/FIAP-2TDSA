@@ -1,0 +1,17 @@
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\RottenTomatoes.exe
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\RottenTomatoes.deps.json
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\RottenTomatoes.runtimeconfig.json
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\RottenTomatoes.dll
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\RottenTomatoes.pdb
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.AssemblyInfo.cs
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.csproj.CopyComplete
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.dll
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\refint\RottenTomatoes.dll
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.pdb
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.genruntimeconfig.cache
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\ref\RottenTomatoes.dll

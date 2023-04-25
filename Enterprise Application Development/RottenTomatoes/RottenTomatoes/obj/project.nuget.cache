@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hBYSKZXWpv3Lj+mYQnUK6I/3NS96ovF0NLuQrFwFMrZOINRsE01QdqS8FJg6mAQukyior98qjTJnK0q1BfkYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\logonrmlocal\\Documents\\GitHub\\FIAP-2TDSA\\Enterprise Application Development\\RottenTomatoes\\RottenTomatoes\\RottenTomatoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
