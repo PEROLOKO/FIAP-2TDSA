@@ -1,6 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using HtmlAgilityPack;
 using RottenTomatoes;
+using ServiceStack;
+
+var Url = "https://editorial.rottentomatoes.com/guide/100-best-classic-movies/";
+var PageResult = new HttpClient().GetAsync(Url).Result;
+
+var Html = PageResult.Content.ReadAsStringAsync().Result;
+var Doc = new HtmlDocument();
+Doc.LoadHtml(Html);
+
+var Links = new List<string>() { };
+foreach (int i in Enumerable.Range(1, 10))
+{
+    Links.Add(Doc.DocumentNode.SelectSingleNode(
+        $"//*[@id=\"row-index-{i}\"]/div[3]/div[1]/div[1]/div/div/h2/a")
+        .Attributes.First(a => a.Name == "href").Value);
+}
 
 var Urls = new string[]
 {
@@ -10,14 +26,27 @@ var Urls = new string[]
 
 Console.WriteLine("Hello, World!");
 
-//foreach (var url in Urls)
-//    RodarRobozinho(url);
+var Filmes = new List<Filme>();
 
-Parallel.ForEach(Urls, url =>
-    RodarRobozinho(url));
+foreach (var link in Links)
+    RodarRobozinho(link);
 
-void RodarRobozinho(string url)
+// Parallel roda em todos os núcleos em vez de 1 só
+// Parallel.ForEach(Links, link =>
+//    RodarRobozinho(link));
+
+ServiceStack.Text.CsvConfig.ItemSeperatorString = "|";
+
+File.WriteAllText("C://Users/logonrmlocal/lista.csv",
+    Filmes.ToCsv());
+
+Filme RodarRobozinho(string url)
 {
+    //Task.Factory.StartNew(() => {
+    //    Thread.Sleep(new Random().Next(1000, 8000));
+    //});
+    
+
     var PageResult = new HttpClient().GetAsync(url).Result;
 
     var Html = PageResult.Content.ReadAsStringAsync().Result;
@@ -31,6 +60,7 @@ void RodarRobozinho(string url)
     };
 
     Console.WriteLine(NovoFilme.Nome);
+    return NovoFilme;
 }
 
 

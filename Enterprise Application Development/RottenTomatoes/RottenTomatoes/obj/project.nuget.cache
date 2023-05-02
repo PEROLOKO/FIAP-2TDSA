@@ -1,10 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "3hBYSKZXWpv3Lj+mYQnUK6I/3NS96ovF0NLuQrFwFMrZOINRsE01QdqS8FJg6mAQukyior98qjTJnK0q1BfkYQ==",
+  "dgSpecHash": "9V0GIx/2COQ9MROuV+07f4APuWAXl600UYNM6O1YuCMrhQTxbPoQjz+quEvYaLq0mVN2iRSR4/X4TrAonHBQWA==",
   "success": true,
   "projectFilePath": "C:\\Users\\logonrmlocal\\Documents\\GitHub\\FIAP-2TDSA\\Enterprise Application Development\\RottenTomatoes\\RottenTomatoes\\RottenTomatoes.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\servicestack.text\\6.8.0\\servicestack.text.6.8.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\logonrmlocal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

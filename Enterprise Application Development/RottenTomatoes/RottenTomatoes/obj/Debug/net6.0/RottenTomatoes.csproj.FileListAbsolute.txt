@@ -15,3 +15,4 @@ C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Develop
 C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.pdb
 C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\RottenTomatoes.genruntimeconfig.cache
 C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\obj\Debug\net6.0\ref\RottenTomatoes.dll
+C:\Users\logonrmlocal\Documents\GitHub\FIAP-2TDSA\Enterprise Application Development\RottenTomatoes\RottenTomatoes\bin\Debug\net6.0\ServiceStack.Text.dll
