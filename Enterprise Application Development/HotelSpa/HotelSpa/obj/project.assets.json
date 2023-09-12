@@ -9717,23 +9717,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\logonrmlocal\\.nuget\\packages\\": {},
+    "C:\\Users\\naran\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\logonrmlocal\\Documents\\GitHub\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\HotelSpa.csproj",
+      "projectUniqueName": "E:\\GITHUB\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\HotelSpa.csproj",
       "projectName": "HotelSpa",
-      "projectPath": "C:\\Users\\logonrmlocal\\Documents\\GitHub\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\HotelSpa.csproj",
-      "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\logonrmlocal\\Documents\\GitHub\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\obj\\",
+      "projectPath": "E:\\GITHUB\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\HotelSpa.csproj",
+      "packagesPath": "C:\\Users\\naran\\.nuget\\packages\\",
+      "outputPath": "E:\\GITHUB\\FIAP-2TDSA\\Enterprise Application Development\\HotelSpa\\HotelSpa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\logonrmlocal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\naran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9742,7 +9742,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9785,7 +9785,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
